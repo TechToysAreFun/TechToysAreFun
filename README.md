@@ -1,9 +1,6 @@
 Hi 👋 My name is Matt Hart
 ==========================
 
-Software Engineer
------------------
-
 Special interests in CRM, ERP, and SAAS with my most recent work in K8s API monitoring. Always seeking a creative and intellectual challenge and team alike.
 
 ### Skills
